@@ -10998,6 +10998,18 @@ body.sidebar-toggled footer.sticky-footer {
 }
 
 /* Profile Photos */
+.dummy-male {
+  background: url(../assets/dp/dummy-male.svg);
+  background-position: center;
+  background-size: cover;
+}
+
+.dummy-female {
+  background: url(../assets/dp/dummy-female.svg);
+  background-position: center;
+  background-size: cover;
+}
+
 .redha {
   background: url(../assets/dp/redha.jpg);
   background-position: center;
@@ -11006,6 +11018,12 @@ body.sidebar-toggled footer.sticky-footer {
 
 .khairiah {
   background: url(../assets/dp/khairiah.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.akmalhayati {
+  background: url(../assets/dp/akmalhayati.jpg);
   background-position: center;
   background-size: cover;
 }

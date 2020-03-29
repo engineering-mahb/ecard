@@ -2,6 +2,7 @@ $(document).ready(function() {
   var table = $('#dataTable').DataTable( {
       order: [[ 1, 'asc' ], [ 2, 'asc' ]],
       scrollY: '50vh',
+      scrollX: true,
       scrollCollapse: true,
       paging: false,
     //   lengthChange: true,
