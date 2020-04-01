@@ -2,7 +2,7 @@
 
 This is a small project aims to establish a centralized MAHB Engineering Directory and Digital Business Cards (E-Card).
 
-View the site [here](https://engineering-mahb.github.io/ecard).
+View the site at [https://engineering-mahb.github.io/ecard](https://engineering-mahb.github.io/ecard).
 
 ## Preview
 
