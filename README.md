@@ -6,10 +6,12 @@ View the site [here](https://engineering-mahb.github.io/ecard).
 
 ## Preview
 
-![Preview](preview/screenshot-01.png)
+![Preview](https://raw.githubusercontent.com/engineering-mahb/ecard/master/preview/screenshot-01.PNG)
 
 
-![Preview](preview/screenshot-02.png)
+![Preview](https://raw.githubusercontent.com/engineering-mahb/ecard/master/preview/screenshot-02.PNG)
+
+## Acknowledgement
 
 This is based on [Start Bootstrap Theme](https://startbootstrap.com/themes/sb-admin-2/), an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license.
 
