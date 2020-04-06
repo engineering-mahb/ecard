@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Salleh;Khairiah;;Ir.;
-FN:Khairiah Salleh
+N:Ayob ;Afandi Akmal;
+FN:Afandi Akmal Ayob
 ORG:Malaysia Airports Holdings Berhad
-TITLE:Head of Engineering
-TEL;TYPE=cell:+60192373721
-TEL;TYPE=work:+60387777020
+TITLE:Manager, Engineering Environment
+TEL;TYPE=cell:+60197123960
+TEL;TYPE=work:+60387777000
 ADR;PREF=1;TYPE=work:;;Malaysia Airports Engineering Complex\nJalan KLIA S6;Sepang;Selangor;64000;MALAYSIA
-EMAIL:khairiah@malaysiaairports.com.my
+EMAIL:afandia@malaysiaairports.com.my
 END:VCARD
