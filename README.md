@@ -6,9 +6,6 @@ View the site at [https://engineering-mahb.github.io/ecard](https://engineering-
 
 ## Preview
 
-![Preview](https://raw.githubusercontent.com/engineering-mahb/ecard/master/preview/screenshot-01.PNG)
-
-
 ![Preview](https://raw.githubusercontent.com/engineering-mahb/ecard/master/preview/screenshot-02.PNG)
 
 ## Acknowledgement
